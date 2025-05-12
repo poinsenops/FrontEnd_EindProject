@@ -1,0 +1,96 @@
+{
+    "categories": {
+        "skates": [
+            {
+                "id": 1,
+                "name": "black stuntskates",
+                "price": "170.99",
+                "image": "img/skates/stunt _inline_skates.jpg",
+                "amount": 0
+            },
+            {
+                "id": 2,
+                "name": "prof race skates",
+                "price": "199.99",
+                "image": "img/skates/prof_race_skates.jpg",
+                "amount": 0
+            },
+            {
+                "id": 3,
+                "name": "allday skates",
+                "price": "49.99",
+                "image": "img/skates/normal.jpg",
+                "amount": 0
+            }
+        ],
+        "skateboards": [
+            {
+                "id": 4,
+                "name": "Suoto Skateboard",
+                "price": "69.99",
+                "image": "img/skateboards/Suotu_Skateboard.jpg",
+                "amount": 0
+            },
+            {
+                "id": 5,
+                "name": "AC/DC Skateboard",
+                "price": "99.99",
+                "image": "img/skateboards/ACDC.jpg",
+                "amount": 0
+            },
+            {
+                "id": 6,
+                "name": "skateboard deck",
+                "price": "24.99",
+                "image": "img/skateboards/deck.jpg",
+                "amount": 0
+            }
+        ],
+        "scooters": [
+            {
+                "id": 7,
+                "name": "Suoto stunt scooter",
+                "price": "99.99",
+                "image": "img/scooters/Souto_Stunt.jpg",
+                "amount": 0
+            },
+            {
+                "id": 8,
+                "name": "bohlt e-scooter",
+                "price": "299.99",
+                "image": "img/scooters/Bohlt_elek.jpg",
+                "amount": 0
+            },
+            {
+                "id": 9,
+                "name": "white scooter",
+                "price": "100.99",
+                "image": "img/scooters/white.jpg",
+                "amount": 0
+            }
+        ],
+        "BMX": [
+            {
+                "id": 10,
+                "name": "spirit BMX",
+                "price": "179.99",
+                "image": "img/BMX/spirit.jpg",
+                "amount": 0
+            },
+            {
+                "id": 11,
+                "name": "Magic BMX",
+                "price": "199.99",
+                "image": "img/BMX/magic.jpg",
+                "amount": 0
+            },
+            {
+                "id": 12,
+                "name": "blue BMX",
+                "price": "70.99",
+                "image": "img/BMX/blue.jpg",
+                "amount": 0
+            }
+        ]
+    }
+}

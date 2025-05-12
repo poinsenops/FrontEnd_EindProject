@@ -1,0 +1,14 @@
+{
+  "name": "the-webshop-9843312f2f71-307d85ca3b87",
+  "version": "1.0.0",
+  "description": "gemaakt met tailwind",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "watch": "tailwindcss build -i ./public/css/styling.css -o ./public/css/twstyling.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
