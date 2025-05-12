@@ -2,7 +2,7 @@
 dit is een repository voor een opdracht gemaakt opschool
 
 ## info
-ik heb de webshop gemaakt met de framework tailwind op de webshop worden skate spullen verkocht.
+ik heb de webshop gemaakt met het framework tailwind op de webshop worden skate spullen verkocht.
 
 je komt bij mn website via sk8-bit https://66683cd864b124fabb8bc5a0--spontaneous-zuccutto-a1f148.netlify.app/public
 je komt bij mn website admin page via sk8-bit https://66683cd864b124fabb8bc5a0--spontaneous-zuccutto-a1f148.netlify.app/public/admin
